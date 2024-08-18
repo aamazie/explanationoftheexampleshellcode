@@ -5,6 +5,8 @@ Explanation of the Example Shellcode
 
 \x60\x89\xe5\x31\xc0\x31\xdb\x31\xc9\x31\xd2
 
+This code is partly psychotic and can prevent normal stuff from running so modify for it in your systems with our malware scanners.
+
 
 Breakdown of the Shellcode
 \x60 (PUSHA):
